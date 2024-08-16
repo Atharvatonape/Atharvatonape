@@ -14,7 +14,6 @@
 
 - ⚡ Fun fact **I think I am funny, and I don't think A.I will turn into Skynet.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
