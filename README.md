@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Tonape</h1>
-<h3 align="center">An A.I optimist and a Software Developer</h3>
+<h3 align="center">A.I optimist & Software Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
