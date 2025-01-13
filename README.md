@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharva Tonape</h1>
 <h3 align="center">A passionate Backend and A.I developer</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 🔭 I’m currently working on [Distributed Session Manager](https://github.com/Atharvatonape/DistributedSessionNet)
 
